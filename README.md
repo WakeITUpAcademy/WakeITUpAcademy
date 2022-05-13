@@ -1,0 +1,8 @@
+- 👋 Hi, we are @WakeITUpAcademy
+- 👀 We want to help people find their path in programming.
+- 🌱 We are currently working on developing an Angular course, presented in a easy to understand manner.
+- 📫 How to reach me us:
+    - Email: wakeitupacademy@gmail.com
+    - Linkedin: https://www.linkedin.com/company/wake-it-up-academy
+    - Instagram: @wakeitupacademy
+    - Facebook: https://www.facebook.com/wakeitupacademy
